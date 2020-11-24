@@ -1,2 +1,2 @@
 # Tela-login
-Tela de login, feita em html e css
+Telas de login, feitas em html e css
